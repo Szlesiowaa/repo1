@@ -2,8 +2,7 @@
 
 int main(){
 
-printf("a\naaa\naaa");
-printf("eegwefwefwef\n");
+printf("a");
 
 return 0;
 }
