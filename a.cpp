@@ -6,6 +6,7 @@ int main(){
 //repo1
 //
 //galaz g1
-
+int i;
+//galaz g2
 return 0;
 }
